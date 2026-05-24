@@ -1,6 +1,3 @@
-# ml-output-evaluator
-End-to-end ML evaluation notebook- classification and regression metrics with threshold sensitivity analysis and plain-English interpretation
-
 # ML Output Evaluator
 A reusable end-to-end notebook for evaluating machine learning
 model outputs. Built as part of an AI evaluation engineering portfolio.
